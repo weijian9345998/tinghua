@@ -38,6 +38,7 @@ header b{
 	   height: 20vh;
 	   font-size: 0.15rem;
 	   margin-top: 13%;
+	   position: relative;
    }
    section div{
 	   border: solid 1px #F2F2F2;
