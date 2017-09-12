@@ -39,6 +39,7 @@ header b{
 	   font-size: 0.15rem;
 	   margin-top: 13%;
 	   position: relative;
+	   top:10vh;
 	   z-index: 99;
 	   
    }
